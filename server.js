@@ -1,13 +1,13 @@
 const jsonServer = require('json-server');
-const path = require('path'); // Import path module
-const express = require('express'); // Import express
+const path = require('path'); 
+const express = require('express'); 
 
 const server = jsonServer.create();
 
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 
-server.use('/images', express.static(path.join(__dirname, 'images'))); // Serve static files from the images directory
+server.use('/images', express.static(path.join(__dirname, 'images'))); 
 server.use(middlewares);
 server.use('/api', router);
 server.use((req, res, next) => {

@@ -10,7 +10,8 @@
             "engineRating": 1600,
             "driveMode": "FWD",
             "numberOfSeats": 5,
-            "previousOwners": 1
+            "previousOwners": 1,
+            "color": "White"
         },
         {
             "id": 2,
@@ -22,7 +23,8 @@
             "engineRating": 2000,
             "driveMode": "FWD",
             "numberOfSeats": 5,
-            "previousOwners": 2
+            "previousOwners": 2,
+            "color": "Black"
         },
         {
             "id": 3,
@@ -34,7 +36,8 @@
             "engineRating": 1500,
             "driveMode": "FWD",
             "numberOfSeats": 5,
-            "previousOwners": 1
+            "previousOwners": 1,
+            "color": "Red"
         },
         {
             "id": 4,
@@ -46,7 +49,8 @@
             "engineRating": 3000,
             "driveMode": "RWD",
             "numberOfSeats": 2,
-            "previousOwners": 0
+            "previousOwners": 0,
+            "color": "Gray"
         },
         {
             "id": 5,
@@ -58,7 +62,8 @@
             "engineRating": 1800,
             "driveMode": "FWD",
             "numberOfSeats": 5,
-            "previousOwners": 1
+            "previousOwners": 1,
+            "color": "White"
         }
     ]
 }
