@@ -23,22 +23,22 @@
             "location": "Kiambu",
             "price": 1300000,
             "image": " https://media.ed.edmunds-media.com/honda/fit/2020/oem/2020_honda_fit_4dr-hatchback_sport_rq_oem_2_500.jpg"
-        }
+        },
         {
-            "id": 2,
-            "name": "Honda Civic",
+            "id": 4,
+            "name": "Toyota",
+            "type": "Supra",
+            "location": "Nairobi",
+            "price": 5800000,
+            "image": "https://images.pexels.com/photos/18739392/pexels-photo-18739392/free-photo-of-gray-toyota-supra-at-public-show.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        },
+        {
+            "id": 5,
+            "name": "Toyota Corolla",
             "type": "Sedan",
             "location": "Karen",
             "price": 4800000,
-            "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
-        }
-        {
-            "id": 2,
-            "name": "Honda Civic",
-            "type": "Sedan",
-            "location": "Karen",
-            "price": 4800000,
-            "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
+            "image": "https://images.pexels.com/photos/29458514/pexels-photo-29458514/free-photo-of-white-sedan-parked-outdoors-on-dirt-road.jpeg?auto=compress&cs=tinysrgb&w=1200"
         }
 
 
