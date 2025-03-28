@@ -15,6 +15,34 @@
             "location": "Karen",
             "price": 4800000,
             "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        },
+        {
+            "id": 3,
+            "name": " Honda",
+            "type": "Fit",
+            "location": "Kiambu",
+            "price": 1300000,
+            "image": " https://media.ed.edmunds-media.com/honda/fit/2020/oem/2020_honda_fit_4dr-hatchback_sport_rq_oem_2_500.jpg"
         }
+        {
+            "id": 2,
+            "name": "Honda Civic",
+            "type": "Sedan",
+            "location": "Karen",
+            "price": 4800000,
+            "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        }
+        {
+            "id": 2,
+            "name": "Honda Civic",
+            "type": "Sedan",
+            "location": "Karen",
+            "price": 4800000,
+            "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
+        }
+
+
+
+       
     ]
 }
