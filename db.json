@@ -2,19 +2,19 @@
     "cars": [
         {
             "id": 1,
-            "name": "Toyota Corolla",
-            "type": "Sedan",
-            "location": "New York",
-            "price": 15000,
-            "image": "http://localhost:5000/images/car1.jpg"
+            "name": "Toyota",
+            "type": "Yaris GR",
+            "location": "Nairobi",
+            "price": 2500000,
+            "image": "https://images.pexels.com/photos/20867335/pexels-photo-20867335/free-photo-of-white-racing-toyota-corolla.jpeg?auto=compress&cs=tinysrgb&w=1200"
         },
         {
             "id": 2,
             "name": "Honda Civic",
             "type": "Sedan",
-            "location": "Los Angeles",
-            "price": 18000,
-            "image": "http://localhost:5000/images/car2.jpg"
+            "location": "Karen",
+            "price": 4800000,
+            "image": "https://images.pexels.com/photos/16586238/pexels-photo-16586238/free-photo-of-tuned-honda-civic-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200"
         }
     ]
 }
